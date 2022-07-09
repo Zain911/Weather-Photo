@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherPhoto</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ok">Okay</string>
+    <string name="camera_access_required">Camera access required</string>
+    <string name="camera_permission_not_available">Camera permission not available</string>
+    <string name="share_image">Share Image</string>
+    <string name="open_gps">Open GPS</string>
+    <string name="turnOn_gps">Please turn on GPS</string>
+    <string name="degree">\u0020°C</string>
+    <string name="no_internet_connection">Internet connection not available.</string>
+    <string name="loading">loading…</string>
+</resources>
